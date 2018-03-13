@@ -4,7 +4,7 @@
 
 ### 初级工程师
 
-* [介绍](juniro/README.md)
+* [介绍](junior/README.md)
 
 ### 高级工程师
 
