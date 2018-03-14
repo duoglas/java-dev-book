@@ -7,7 +7,6 @@
 ## 初级工程师
 
 * [介绍](junior/README.md)
-* [实践](junior/practice.md)
 * [知识点](junior/knowlege.md)
 
 ## 高级工程师
