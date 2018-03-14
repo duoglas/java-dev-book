@@ -6,7 +6,7 @@
 | maven | 熟练 |
 | linux使用 | 熟练 |
 | java基础 | 精通 |
-| java io | 了解 |
+| java IO | 了解 |
 | java RPC | 熟练 |
 | 消息中间件 | 熟练 |
 | 数据库原理 | 熟练 |
