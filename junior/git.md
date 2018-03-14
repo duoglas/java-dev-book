@@ -16,7 +16,9 @@
 
 #### 学习资料
 
-[https://git-scm.com/book/zh/v2/](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
+[https://datasift.github.io/gitflow/IntroducingGitFlow.html](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
+
+[http://www.ruanyifeng.com/blog/2015/12/git-workflow.html](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
 
 ### 实践
 
