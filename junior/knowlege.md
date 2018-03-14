@@ -22,7 +22,10 @@
 | 模板引擎 | 熟练 |
 | MVC模式 | 掌握 |
 | spring MVC | 熟练 |
-| 分布式管理框架zookeeper | 了解 |
+| 分布式一致性理论CAP、一致性模型与BASE理论 | 熟悉 |
+| 分布式管理框架zookeeper | 熟练 |
+| 一致性算法原理2PC,3PC,Paxos,Raft,ISR | 了解 |
+| 一致性哈希 | 了解 |
 
 ### 
 
