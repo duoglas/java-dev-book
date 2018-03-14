@@ -8,6 +8,8 @@
 
 * [介绍](junior/README.md)
 * [知识点](junior/knowlege.md)
+* [git](junior/git.md)
+* [maven](junior/maven.md)
 
 ## 高级工程师
 
