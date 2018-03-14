@@ -26,6 +26,7 @@
 |  | 模板引擎 | 熟练 |
 |  | MVC模式 | 掌握 |
 |  | spring框架 | 掌握 |
+|  | Servlet编程 |  |
 |  | spring MVC | 熟练 |
 | 分布式知识 | 分布式一致性模型、CAP理论、BASE理论 | 了解 |
 |  | 一致性算法原理2PC,3PC,Paxos,Raft,ISR | 了解 |
