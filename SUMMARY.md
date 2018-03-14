@@ -11,6 +11,7 @@
 * [知识点](junior/knowlege.md)
 * [git](junior/git.md)
 * [maven](junior/maven.md)
+* [缓存](junior/cache.md)
 
 ## 高级工程师
 
