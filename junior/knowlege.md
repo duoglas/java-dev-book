@@ -24,10 +24,10 @@
 |  | socket编程 | 掌握 |
 |  | REST vs SOAP | 熟悉 |
 |  | 模板引擎 | 熟练 |
-|  | MVC模式 | 掌握 |
+|  | MVC模式 | 熟悉 |
 |  | spring框架 | 掌握 |
 |  | Servlet编程 | 熟悉 |
-|  | spring MVC | 熟练 |
+|  | spring MVC | 掌握 |
 | 分布式知识 | 分布式一致性模型、CAP理论、BASE理论 | 了解 |
 |  | 一致性算法原理2PC,3PC,Paxos,Raft,ISR | 了解 |
 |  | 一致性哈希 | 熟悉 |
