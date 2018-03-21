@@ -1,53 +1,16 @@
-## maven
+# maven
 
-#### 学习目标
+## 学习目标
 
 * 使用maven构建复杂工程
 * 排查maven包依赖问题
 * 排查maven包部署问题
 
-#### 学习资料
+## 学习资料
 
 http://maven.apache.org/guides/getting-started/index.html
 
-### 拓展：多模块工程
-
-#### 学习目标
-
-理解原理，熟练使用
-
-#### 学习资料
-
-https://maven.apache.org/guides/mini/guide-multiple-modules.html
-
-拓展阅读：
-
-http://juvenshun.iteye.com/blog/305865
-
-### 拓展：maven profile
-
-#### 学习目标
-
-理解原理，学会使用
-
-#### 学习资料
-
-[http://maven.apache.org/guides/introduction/introduction-to-profiles.html](http://maven.apache.org/guides/introduction/introduction-to-profiles.html)
-
-拓展阅读：
-
-[https://www.zybuluo.com/haokuixi/note/25985](https://www.zybuluo.com/haokuixi/note/25985)
-
-[http://blog.csdn.net/mhmyqn/article/details/24501281](http://blog.csdn.net/mhmyqn/article/details/24501281)
-
-### 实践
-
-* 创建多模块工程
-  * mvn archetype:generate -DarchetypeGroupId=org.codehaus.mojo.archetypes -DarchetypeArtifactId=pom-root
-
-  * mvn archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart
-
-  * mvn archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp
+## 实践
 
 * 理解SNAPSHOT包与正式包区别
 
@@ -62,6 +25,46 @@ http://juvenshun.iteye.com/blog/305865
 * 学会使用maven执行单元测试、跳过执行单元测试
 
 * 尝试mvn install、mvn deploy
+# 拓展：多模块工程
+
+## 学习目标
+
+理解原理，熟练使用
+
+## 学习资料
+
+https://maven.apache.org/guides/mini/guide-multiple-modules.html
+
+拓展阅读：
+
+http://juvenshun.iteye.com/blog/305865
+
+## 实践
+
+* 创建多模块工程
+  * mvn archetype:generate -DarchetypeGroupId=org.codehaus.mojo.archetypes -DarchetypeArtifactId=pom-root
+
+  * mvn archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart
+
+  * mvn archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp
+
+# 拓展：maven profile
+
+## 学习目标
+
+理解原理，学会使用
+
+## 学习资料
+
+[http://maven.apache.org/guides/introduction/introduction-to-profiles.html](http://maven.apache.org/guides/introduction/introduction-to-profiles.html)
+
+拓展阅读：
+
+[https://www.zybuluo.com/haokuixi/note/25985](https://www.zybuluo.com/haokuixi/note/25985)
+
+[http://blog.csdn.net/mhmyqn/article/details/24501281](http://blog.csdn.net/mhmyqn/article/details/24501281)
+
+
 
 
 
