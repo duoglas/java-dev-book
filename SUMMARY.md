@@ -11,8 +11,10 @@
 * [知识点](junior/knowlege.md)
 * [git](junior/git.md)
 * [maven](junior/maven.md)
-* [linux使用](junior/linuxshi-yong.md)
+* [linux使用](junior/linux.md)
+* [算法与数据结构](junior/algorithm.md)
 * [缓存基本知识](junior/cache.md)
+* [软件设计文档撰写](junior/softwaredoc.md)
 
 ## 高级工程师
 
